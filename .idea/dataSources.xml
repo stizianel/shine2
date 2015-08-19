@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="2702076015">
+  <component name="DataSourceManagerImpl" format="xml" hash="2901832619">
     <data-source source="LOCAL" name="PostgreSQL - shine2_development@localhost" uuid="507dfea8-ae5d-4306-bc81-36dd8dc7527a">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
